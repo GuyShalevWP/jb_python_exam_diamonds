@@ -1,5 +1,3 @@
-import csv
-
 def load_diamonds_from_csv(filename):
     diamonds = []
     try:
